@@ -1,5 +1,5 @@
 atur dulu tuh databasenya, passwordnya segala macam di koneksi.php  
-didalam database.txt udah lengkap itu, tinggal copas aja isinya  
+didalam database.sql udah lengkap itu, tinggal copas aja isinya  
 kalo mau login ke admin pake akun dibawah  
 username : Kazuha  
 password : Kazuha  
